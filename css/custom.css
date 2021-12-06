@@ -1,0 +1,12 @@
+.select2-container--default.select2-container--focus .select2-selection--multiple .select2-selection--above {
+   border: solid #00000030 1px !important;
+   outline: 0 !important;
+   border-radius: 9px !important;
+}
+
+.select2-container--default .select2-selection--multiple{
+   border: solid #00000030 1px !important;
+   outline: 0 !important;
+   border-radius: 9px !important;
+}
+
